@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+.Button{
+  margin: 5px !important;
+}
+
+.MainDiv {
+  margin-top: 120px;
+}
+
+.Paper {
+  padding: 10px;
+  margin: 10px;
+}
+.LOGOUT{
+  margin: 5px !important;
+}
+
+.LOGIN{
+  background: dodgerblue !important;
+  height: 100px;
+}
+
+.AppBar{
+  background: dodgerblue !important;
+  height: 90px;
+}
+
+.MovieCard{
+  padding: 20px;
+  align-content: center;
+  display: flex;
+}
+
+.Poster{
+  height: 220px;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+
+.MemberCard{
+  padding: 10px;
+  align-content: center;
+  display: flex;
+}
+
+.anchorShift
+{
+  position: relative;
+  top: -95px;
+}
