@@ -1,4 +1,6 @@
 const movie = require('../movies/moviemodel');
+const {promise} = require('mongoose');
+const express = require('express');
 
 exports.getallmovies = function()
 {
