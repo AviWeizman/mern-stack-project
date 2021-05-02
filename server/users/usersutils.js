@@ -1,4 +1,6 @@
 const user = require('../users/usermodel');
+const {promise} = require('mongoose');
+const express = require('express')
 
 exports.getallusers = function()
 {
