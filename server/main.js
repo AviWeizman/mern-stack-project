@@ -22,7 +22,7 @@ app.use('/movies',moviescontroller);
 app.use('/subscriptions',subscontroller);
 app.use('/users',userscontroller);
 
-app.listen(8000)
+app.listen(8000);
 
-console.log("yasssssss")
+
 
